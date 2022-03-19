@@ -1,0 +1,605 @@
+{
+    "songs": [
+        "#NewCharlotte.mp3",
+        "Alright.mp3",
+        "Bath Salt.mp3",
+        "Berzerk.mp3",
+        "Black Beatles.mp3",
+        "Black Friday.mp3",
+        "Bounce.mp3",
+        "Break Yo Self 2.mp3",
+        "Caterpillar.mp3",
+        "Chill Bill.mp3",
+        "Collard Greens.mp3",
+        "Daylight & Nightlight.mp3",
+        "Do It Big.mp3",
+        "Don't Touch Me.mp3",
+        "Exhibit A.mp3",
+        "Exhibit C.mp3",
+        "G.O.M.D.mp3",
+        "Godzilla.mp3",
+        "Homicide.mp3",
+        "I Will.mp3",
+        "Imaginary Places.mp3",
+        "Immortal.mp3",
+        "ISIS.mp3",
+        "Just What I Am.mp3",
+        "Keanu Reeves.mp3",
+        "La la la.mp3",
+        "LATELY.mp3",
+        "Little Engine.mp3",
+        "Lucky You.mp3",
+        "Marsh.mp3",
+        "Mask Off.mp3",
+        "No Role Modelz.mp3",
+        "None Shall Pass.mp3",
+        "Not Alike.mp3",
+        "Notorious Thugs.mp3",
+        "Pursuit Of Happiness.mp3",
+        "RedEye to Paris.mp3",
+        "Shook Ones Pt 2.mp3",
+        "THat Part.mp3",
+        "The Story of O.J..mp3",
+        "Timmy Turner.mp3",
+        "Toxic Coffee.mp3",
+        "Ultimate.mp3",
+        "Unaccommodating & You Gon' Learn.mp3",
+        "Venom.mp3",
+        "Virginia.mp3",
+        "A.mp3",
+        "Dangerous.mp3",
+        "Don't Touch Me (Gerudo Valley).mp3",
+        "Floating.mp3",
+        "GHOST!.mp3",
+        "Let It Bang.mp3",
+        "Mercy.mp3",
+        "Mr. Rager.mp3",
+        "No More Cocaine Parties in LA.mp3",
+        "Panda.mp3",
+        "Virginia (Lost Woods).mp3",
+        "Wash Us In The Blood.mp3",
+        "Zombie Walk.mp3",
+        "Numb Numb Juice.mp3",
+        "Up.mp3",
+        "ATM.mp3",
+        "DNA.mp3",
+        "Dope Dealer.mp3",
+        "Immortal - J. Cole.mp3",
+        "Window Pain.mp3"
+    ],
+    "artists": {
+        "DuRu Tha King": {
+            "songs": [
+                "#NewCharlotte.mp3"
+            ],
+            "fts": [
+                "Bankroll Bird",
+                "YB",
+                "Deniro Farrar"
+            ]
+        },
+        "Deniro Farrar": {
+            "songs": [
+                "#NewCharlotte.mp3"
+            ],
+            "fts": [
+                "Bankroll Bird",
+                "DuRu Tha King",
+                "YB"
+            ]
+        },
+        "YB": {
+            "songs": [
+                "#NewCharlotte.mp3"
+            ],
+            "fts": [
+                "Bankroll Bird",
+                "DuRu Tha King",
+                "Deniro Farrar"
+            ]
+        },
+        "Bankroll Bird": {
+            "songs": [
+                "#NewCharlotte.mp3"
+            ],
+            "fts": [
+                "DuRu Tha King",
+                "YB",
+                "Deniro Farrar"
+            ]
+        },
+        "Kendrick Lamar": {
+            "songs": [
+                "Alright.mp3",
+                "Collard Greens.mp3",
+                "No More Cocaine Parties in LA.mp3",
+                "DNA.mp3"
+            ],
+            "fts": [
+                "ScHoolboy Q",
+                "Kanye West",
+                "Freddie Gibbs",
+                "Madlib"
+            ]
+        },
+        "A$AP Mob": {
+            "songs": [
+                "Bath Salt.mp3"
+            ],
+            "fts": [
+                "Flatbush Zombies"
+            ]
+        },
+        "Flatbush Zombies": {
+            "songs": [
+                "Bath Salt.mp3",
+                "Bounce.mp3",
+                "RedEye to Paris.mp3"
+            ],
+            "fts": [
+                "A$AP Mob",
+                "Skepta"
+            ]
+        },
+        "Eminem": {
+            "songs": [
+                "Berzerk.mp3",
+                "Caterpillar.mp3",
+                "Godzilla.mp3",
+                "Homicide.mp3",
+                "I Will.mp3",
+                "Little Engine.mp3",
+                "Lucky You.mp3",
+                "Marsh.mp3",
+                "Not Alike.mp3",
+                "Shook Ones Pt 2.mp3",
+                "Unaccommodating & You Gon' Learn.mp3",
+                "Venom.mp3"
+            ],
+            "fts": [
+                "Royce Da 5' 9\"",
+                "Juice Wrld",
+                "Logic",
+                "KXNG Crooked",
+                "Joell Ortiz",
+                "Joyner Lucas",
+                "Nas",
+                "Xzibit",
+                "Mobb Deep",
+                "Ice Cube",
+                "White Gold",
+                "Young M.A."
+            ]
+        },
+        "Rae Sremmurd": {
+            "songs": [
+                "Black Beatles.mp3"
+            ],
+            "fts": [
+                "Gucci Mane"
+            ]
+        },
+        "Gucci Mane": {
+            "songs": [
+                "Black Beatles.mp3"
+            ],
+            "fts": [
+                "Rae Sremmurd"
+            ]
+        },
+        "J. Cole": {
+            "songs": [
+                "Black Friday.mp3",
+                "G.O.M.D.mp3",
+                "No Role Modelz.mp3",
+                "ATM.mp3",
+                "Immortal - J. Cole.mp3",
+                "Window Pain.mp3"
+            ],
+            "fts": []
+        },
+        "Nell": {
+            "songs": [
+                "Break Yo Self 2.mp3"
+            ],
+            "fts": []
+        },
+        "Royce Da 5' 9\"": {
+            "songs": [
+                "Caterpillar.mp3",
+                "I Will.mp3",
+                "Not Alike.mp3",
+                "Unaccommodating & You Gon' Learn.mp3"
+            ],
+            "fts": [
+                "Eminem",
+                "KXNG Crooked",
+                "Joell Ortiz",
+                "White Gold",
+                "Young M.A."
+            ]
+        },
+        "Robb $tone": {
+            "songs": [
+                "Chill Bill.mp3"
+            ],
+            "fts": [
+                "Spooks",
+                "J. Davi$"
+            ]
+        },
+        "J. Davi$": {
+            "songs": [
+                "Chill Bill.mp3"
+            ],
+            "fts": [
+                "Spooks",
+                "Robb $tone"
+            ]
+        },
+        "Spooks": {
+            "songs": [
+                "Chill Bill.mp3"
+            ],
+            "fts": [
+                "Robb $tone",
+                "J. Davi$"
+            ]
+        },
+        "ScHoolboy Q": {
+            "songs": [
+                "Collard Greens.mp3",
+                "THat Part.mp3",
+                "Dangerous.mp3",
+                "Floating.mp3",
+                "Let It Bang.mp3",
+                "Numb Numb Juice.mp3",
+                "Dope Dealer.mp3"
+            ],
+            "fts": [
+                "Kendrick Lamar",
+                "Kanye West",
+                "Kid Cudi",
+                "21 Savage",
+                "A$AP Ferg",
+                "E-40"
+            ]
+        },
+        "Aesop Rock": {
+            "songs": [
+                "Daylight & Nightlight.mp3",
+                "None Shall Pass.mp3",
+                "Toxic Coffee.mp3"
+            ],
+            "fts": []
+        },
+        "10-Problem IamSu": {
+            "songs": [
+                "Do It Big.mp3"
+            ],
+            "fts": [
+                "Bad Lucc Sage The Gemini"
+            ]
+        },
+        "Bad Lucc Sage The Gemini": {
+            "songs": [
+                "Do It Big.mp3"
+            ],
+            "fts": [
+                "10-Problem IamSu"
+            ]
+        },
+        "Busta Rhymes": {
+            "songs": [
+                "Don't Touch Me.mp3",
+                "Don't Touch Me (Gerudo Valley).mp3"
+            ],
+            "fts": []
+        },
+        "Jay Electronica": {
+            "songs": [
+                "Exhibit A.mp3",
+                "Exhibit C.mp3"
+            ],
+            "fts": []
+        },
+        "Juice Wrld": {
+            "songs": [
+                "Godzilla.mp3"
+            ],
+            "fts": [
+                "Eminem"
+            ]
+        },
+        "Logic": {
+            "songs": [
+                "Homicide.mp3",
+                "ISIS.mp3",
+                "Keanu Reeves.mp3"
+            ],
+            "fts": [
+                "Eminem",
+                "Joyner Lucas"
+            ]
+        },
+        "KXNG Crooked": {
+            "songs": [
+                "I Will.mp3"
+            ],
+            "fts": [
+                "Eminem",
+                "Royce Da 5' 9\"",
+                "Joell Ortiz"
+            ]
+        },
+        "Joell Ortiz": {
+            "songs": [
+                "I Will.mp3"
+            ],
+            "fts": [
+                "Eminem",
+                "Royce Da 5' 9\"",
+                "KXNG Crooked"
+            ]
+        },
+        "Busdriver": {
+            "songs": [
+                "Imaginary Places.mp3"
+            ],
+            "fts": []
+        },
+        "Kid Cudi": {
+            "songs": [
+                "Immortal.mp3",
+                "Just What I Am.mp3",
+                "Pursuit Of Happiness.mp3",
+                "Dangerous.mp3",
+                "GHOST!.mp3",
+                "Mr. Rager.mp3"
+            ],
+            "fts": [
+                "King Chip",
+                "ScHoolboy Q"
+            ]
+        },
+        "Joyner Lucas": {
+            "songs": [
+                "ISIS.mp3",
+                "Lucky You.mp3"
+            ],
+            "fts": [
+                "Logic",
+                "Eminem"
+            ]
+        },
+        "King Chip": {
+            "songs": [
+                "Just What I Am.mp3"
+            ],
+            "fts": [
+                "Kid Cudi"
+            ]
+        },
+        "Naughty Boy": {
+            "songs": [
+                "La la la.mp3"
+            ],
+            "fts": [
+                "Sam Smith"
+            ]
+        },
+        "Sam Smith": {
+            "songs": [
+                "La la la.mp3"
+            ],
+            "fts": [
+                "Naughty Boy"
+            ]
+        },
+        "Machine Gun Kelly": {
+            "songs": [
+                "LATELY.mp3"
+            ],
+            "fts": []
+        },
+        "Future": {
+            "songs": [
+                "Mask Off.mp3"
+            ],
+            "fts": []
+        },
+        "Notorious B.I.G": {
+            "songs": [
+                "Notorious Thugs.mp3"
+            ],
+            "fts": [
+                "Bone Thugs N Harmony"
+            ]
+        },
+        "Bone Thugs N Harmony": {
+            "songs": [
+                "Notorious Thugs.mp3"
+            ],
+            "fts": [
+                "Notorious B.I.G"
+            ]
+        },
+        "Skepta": {
+            "songs": [
+                "RedEye to Paris.mp3"
+            ],
+            "fts": [
+                "Flatbush Zombies"
+            ]
+        },
+        "Mobb Deep": {
+            "songs": [
+                "Shook Ones Pt 2.mp3"
+            ],
+            "fts": [
+                "Nas",
+                "Eminem",
+                "Xzibit",
+                "Ice Cube"
+            ]
+        },
+        "Nas": {
+            "songs": [
+                "Shook Ones Pt 2.mp3"
+            ],
+            "fts": [
+                "Eminem",
+                "Xzibit",
+                "Mobb Deep",
+                "Ice Cube"
+            ]
+        },
+        "Ice Cube": {
+            "songs": [
+                "Shook Ones Pt 2.mp3"
+            ],
+            "fts": [
+                "Nas",
+                "Xzibit",
+                "Eminem",
+                "Mobb Deep"
+            ]
+        },
+        "Xzibit": {
+            "songs": [
+                "Shook Ones Pt 2.mp3"
+            ],
+            "fts": [
+                "Nas",
+                "Eminem",
+                "Mobb Deep",
+                "Ice Cube"
+            ]
+        },
+        "Kanye West": {
+            "songs": [
+                "THat Part.mp3",
+                "Mercy.mp3",
+                "No More Cocaine Parties in LA.mp3",
+                "Wash Us In The Blood.mp3"
+            ],
+            "fts": [
+                "ScHoolboy Q",
+                "Freddie Gibbs",
+                "Madlib",
+                "Kendrick Lamar"
+            ]
+        },
+        "Desiigner": {
+            "songs": [
+                "Timmy Turner.mp3",
+                "Panda.mp3",
+                "Zombie Walk.mp3"
+            ],
+            "fts": [
+                "King Savage"
+            ]
+        },
+        "Denzel Curry": {
+            "songs": [
+                "Ultimate.mp3"
+            ],
+            "fts": [
+                "Juicy J"
+            ]
+        },
+        "Juicy J": {
+            "songs": [
+                "Ultimate.mp3"
+            ],
+            "fts": [
+                "Denzel Curry"
+            ]
+        },
+        "Young M.A.": {
+            "songs": [
+                "Unaccommodating & You Gon' Learn.mp3"
+            ],
+            "fts": [
+                "White Gold",
+                "Eminem",
+                "Royce Da 5' 9\""
+            ]
+        },
+        "White Gold": {
+            "songs": [
+                "Unaccommodating & You Gon' Learn.mp3"
+            ],
+            "fts": [
+                "Eminem",
+                "Royce Da 5' 9\"",
+                "Young M.A."
+            ]
+        },
+        "Clipse": {
+            "songs": [
+                "Virginia.mp3",
+                "Virginia (Lost Woods).mp3"
+            ],
+            "fts": []
+        },
+        "21 Savage": {
+            "songs": [
+                "Floating.mp3"
+            ],
+            "fts": [
+                "ScHoolboy Q"
+            ]
+        },
+        "A$AP Ferg": {
+            "songs": [
+                "Let It Bang.mp3"
+            ],
+            "fts": [
+                "ScHoolboy Q"
+            ]
+        },
+        "Freddie Gibbs": {
+            "songs": [
+                "No More Cocaine Parties in LA.mp3"
+            ],
+            "fts": [
+                "Kanye West",
+                "Kendrick Lamar",
+                "Madlib"
+            ]
+        },
+        "Madlib": {
+            "songs": [
+                "No More Cocaine Parties in LA.mp3"
+            ],
+            "fts": [
+                "Kanye West",
+                "Freddie Gibbs",
+                "Kendrick Lamar"
+            ]
+        },
+        "King Savage": {
+            "songs": [
+                "Zombie Walk.mp3"
+            ],
+            "fts": [
+                "Desiigner"
+            ]
+        },
+        "EarthGang": {
+            "songs": [
+                "Up.mp3"
+            ],
+            "fts": []
+        },
+        "E-40": {
+            "songs": [
+                "Dope Dealer.mp3"
+            ],
+            "fts": [
+                "ScHoolboy Q"
+            ]
+        }
+    }
+}
