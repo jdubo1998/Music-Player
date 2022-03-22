@@ -1,6 +1,7 @@
 from cmath import exp
 from msilib.schema import Directory, ListBox
 import os
+import sys
 import pygame
 from tkinter import *
 from tkinter.ttk import Scale
@@ -16,7 +17,8 @@ player_frame = Frame(root)
 
 song_paths = []
 song_titles = []
-DIRECTORY = 'C:\\Users\\jdubo\\Music\\D.J. JACKSON 108.9 FM'
+# DIRECTORY = 'C:\\Users\\jdubo\\Music\\D.J. JACKSON 108.9 FM'
+DIRECTORY = 'C:\\Program Files\\Rockstar Games\\Grand Theft Auto V\\scripts\\Custom Radio Stations\\GTA Custom\\D.J. JACKSON 108.9 FM'
 
 def directorychooser():
     # directory = askdirectory()
@@ -317,14 +319,28 @@ artists_listbox.bind("<Double-1>",choose_artist) # Listbox
 filterbutton.bind("<Button-1>",filter_artists) # Filter Button
 playlistbutton.bind("<Button-1>",load_songs) # Play Button
 
+songs_listbox.bind("<w>",lambda event : pygame.mixer.music.set_volume(min(pygame.mixer.music.get_volume() + 0.1, 1.0)))
+songs_listbox.bind("<s>",lambda event : pygame.mixer.music.set_volume(max(pygame.mixer.music.get_volume() - 0.1, 0.0)))
+
 reset_artist_labels()
 filter_artists(None, None, None)
 # ---------         Artist Chooser Frame         ---------
 
 def main():
-    # directorychooser()
-
+    flag = ''
+    
     init()
+
+    for arg in sys.argv:
+        if flag == '-V':
+            if flag == '-V':
+                pygame.mixer.music.set_volume(float(arg))
+            flag = '-V'
+
+        flag = arg
+            
+    # directorychooser()
+    
     player_frame.mainloop() 
 
 if __name__ == '__main__':

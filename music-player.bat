@@ -1,1 +1,1 @@
-python musicpy.py
+python "C:\Users\Jacob\Documents\CodingProjects\Python\Music-Player\musicpy.py"

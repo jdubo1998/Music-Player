@@ -3,8 +3,11 @@ import json
 from random import choice
 from mutagen.id3 import ID3
 
-DIRECTORY = 'C:\\Users\\jdubo\\Music\\D.J. JACKSON 108.9 FM'
-_file_path = 'C:\\Users\\jdubo\\Documents\\CodingProjects\\Python\\Music-Player\\test\\data.json'
+# DIRECTORY = 'C:\\Users\\jdubo\\Music\\D.J. JACKSON 108.9 FM'
+# _file_path = 'C:\\Users\\jdubo\\Documents\\CodingProjects\\Python\\Music-Player\\test\\data.json'
+DIRECTORY = 'C:\\Program Files\\Rockstar Games\\Grand Theft Auto V\\scripts\\Custom Radio Stations\\GTA Custom\\D.J. JACKSON 108.9 FM'
+_file_path = 'C:\\Users\\\Jacob\\Documents\\CodingProjects\\Python\\Music-Player\\test\\data.json'
+
 _dupe_artists = []
 
 def save_file(data):
